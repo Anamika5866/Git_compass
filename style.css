@@ -5,7 +5,7 @@
     color: white;
 }
 body{
-    background: url(backgd.jpg);
+    background: url("backgd.jpg");
     background-size: cover;
    ;
 
