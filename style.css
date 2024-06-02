@@ -5,9 +5,10 @@
     color: white;
 }
 body{
+    background-color: rgb(0, 0, 128);
     background: url("backgd.jpg");
     background-size: cover;
-   ;
+    
 
 }
 #head{
